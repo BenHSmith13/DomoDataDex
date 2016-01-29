@@ -1,5 +1,5 @@
 {
-  "firebase": "domomaps",
+  "firebase": "data-dex",
   "public": "build/prod",
   "ignore": [
     "firebase.json",
